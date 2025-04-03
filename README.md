@@ -1,4 +1,4 @@
-![GitHub repo size](https://img.shields.io/github/repo-size/OllzDoesThings/OllzCharts?style=plastic)
+![GitHub repo size](https://img.shields.io/github/repo-size/OllzDoesThings/OllzCharts?style=plastic) <-- idk if this is working or not
 
 # MB Ollz Charts
 ## Hello! Here you can find all my charts and stuff in this simple repo!
